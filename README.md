@@ -13,3 +13,4 @@ while(count>0)
 count--;
 }
 ```
+To get merged changes from remote repository use command `git pull`
